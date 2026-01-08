@@ -1,0 +1,47 @@
+Release v3.5
+- Added Heal Button works on iPhone4 and iPad 1+2
+- Added Minimum and Maximum submit delay slider
+- Add code detection whilst punching codes iPhone4 and semi Ipad 1+2
+
+Release v3.4
+- Crash Check dropdown is being stored and recovered to last known postion.
+- Auto detect iphone 4 en ipad 1+2
+
+Release v3.3
+- Tiny changes in Timers
+  - Submit timers are more realistic now
+  - After an error there is a random sleep between 2 and 6 seconds
+- Nap time not displayed in iphone anymore
+- VNC can be minimized now (Commands are send directly to VNC Window)
+
+*experimental*
+- Win+h : is auto heal function, this only works on the iphone 4 for now...
+- Tests.ahk here you can find code that is used for testing.
+
+Release v3.2
+- Added Tempcodes
+- More Code redesign
+
+Release v3.2
+- Multi File select
+- Redesign of all code
+- Some Gui tweaks
+
+Release v3.1
+- Sliders to control type and submit speed
+- Sliders to control sleep times
+- TW crash check
+
+Release v3.0
+- New Gui
+
+Release v2.1:
+- Control focus of TW window
+- Sends control directly to vnc window
+- detects crash and retries
+
+Release v2.0
+- New Gui
+- About button
+Fixed:
+- A lot of things
