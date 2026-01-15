@@ -1,5 +1,6 @@
 Turfwars puncher has been created using autohotkey
 
+Build using autohotkey 1.2
 Release v3.5
 - Added Heal Button works on iPhone4 and iPad 1+2
 - Added Minimum and Maximum submit delay slider
